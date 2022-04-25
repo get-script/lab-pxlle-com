@@ -1,4 +1,11 @@
 h2 {
-    color: indigo
+    color: indigo;
 
 }
+
+#circle {
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+}
+
