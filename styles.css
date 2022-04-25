@@ -4,5 +4,19 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: darkblue;
+    background-color: midnightblue;
+}
+
+buton {
+    background: none;
+    color: orange;
+    border: 2px solid;
+    padding: 1em 2em;
+    font-size: 1em;
+}
+
+button:hover {
+    border-color: darkorange;
+    color: white;
+    box-shadow: 0 0.5em 0.5em darkorange;
 }
