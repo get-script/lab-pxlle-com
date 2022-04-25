@@ -16,7 +16,7 @@ button {
 }
 
 button:hover {
-    border-color: darkorange;
+    border-color: yellow;
     color: white;
-    box-shadow: 0 0.5em 0.5em darkorange;
+    box-shadow: 0 0.5em 0.5em white;
 }
