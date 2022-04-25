@@ -9,7 +9,7 @@ h2 {
     height: 300px;
 }
 
-.cirle:hover {
+.circle:hover {
     background-color: red;
     border-radius: 50%;
     transition: 1s;
