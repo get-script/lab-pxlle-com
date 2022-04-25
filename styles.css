@@ -20,5 +20,6 @@ button:hover {
     border-color: yellow;
     color: white;
     box-shadow: 0 0.1em 0.1em white;
-    transform: translateY(-0.2em)
+    transform: translateY(-0.2em);
+    cursor: pointer;
 }
