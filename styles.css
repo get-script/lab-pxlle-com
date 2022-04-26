@@ -1,10 +1,9 @@
 body {
     margin: 0 auto;
-    width: 80%;
 }
 
 img {
-    border-color: white;
-    border: 10px;
-    width: 15%;
+    width: 30%;
+    position: top;
+    height:80%;
 }
